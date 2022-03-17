@@ -1,0 +1,17 @@
+{
+  "name": "jstudy",
+  "version": "2.0.1",
+  "description": "Elua-first-library",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Elua-library"
+  ],
+  "author": "Elua",
+  "license": "ISC",
+  "dependencies": {
+    "jstudy": "^2.0.0"
+  }
+}
